@@ -1,7 +1,7 @@
 [
     {
-        "package": "kreuzberg",
-        "url": "https://github.com/xberg-io/kreuzberg",
+        "package": "xberg",
+        "url": "https://github.com/xberg-io/xberg",
         "subdir": "packages/r"
     },
     {
