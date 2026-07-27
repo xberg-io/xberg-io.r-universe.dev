@@ -6,7 +6,7 @@ R-universe package registry for the [Xberg](https://github.com/xberg-io) organiz
 
 | Package | Source Repository | Description |
 |---------|-------------------|-------------|
-| [xberg](https://xberg-io.r-universe.dev/xberg) | [xberg-io/xberg](https://github.com/xberg-io/xberg) | Extract text and metadata from 90+ file formats |
+| [xberg](https://xberg-io.r-universe.dev/xberg) | [xberg-io/xberg](https://github.com/xberg-io/xberg) | Extract text and metadata from 98+ file formats |
 | [htmltomarkdown](https://xberg-io.r-universe.dev/htmltomarkdown) | [xberg-io/html-to-markdown](https://github.com/xberg-io/html-to-markdown) | High-performance HTML to Markdown converter |
 
 ## Installation
