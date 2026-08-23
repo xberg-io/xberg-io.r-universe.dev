@@ -1,14 +1,14 @@
 [
-    {
-        "package": "xberg",
-        "url": "https://github.com/xberg-io/xberg",
-        "branch": "main",
-        "subdir": "packages/r"
-    },
-    {
-        "package": "htmltomarkdown",
-        "url": "https://github.com/xberg-io/html-to-markdown",
-        "branch": "main",
-        "subdir": "packages/r"
-    }
+  {
+    "package": "xberg",
+    "url": "https://github.com/xberg-io/xberg",
+    "branch": "main",
+    "subdir": "packages/r"
+  },
+  {
+    "package": "htmltomarkdown",
+    "url": "https://github.com/xberg-io/html-to-markdown",
+    "branch": "main",
+    "subdir": "packages/r"
+  }
 ]
