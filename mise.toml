@@ -4,4 +4,4 @@ lockfile = true
 lockfile_platforms = ["linux-x64", "linux-arm64", "macos-arm64", "windows-x64"]
 
 [tools]
-python = "3.13.18"
+python = "3.15.2"
